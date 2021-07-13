@@ -6,7 +6,7 @@ setup(name='aglvq',
       url='https://github.com/graebe/aglvq',
       author=["Torben Graeber", "Sebastian Vetter"],
       author_email=['torbengraebergt@gmail.com', 'sebastianvetter@outlook.de'],
-      license='',
+      license='MIT',
       packages=['aglvq'],
       install_requires=[
           'keras==2.3.1',
