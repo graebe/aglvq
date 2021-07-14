@@ -5,13 +5,14 @@ setup(name='aglvq',
       description='AGLVQ Package',
       url='https://github.com/graebe/aglvq',
       author=["Torben Graeber", "Sebastian Vetter"],
-      author_email=['torbengraebergt@gmail.com', 'sebastianvetter@outlook.de'],
+      author_email='torbengraebergt@gmail.com',
       license='MIT',
       packages=['aglvq'],
       install_requires=[
           'keras==2.3.1',
-          'tensorflow==2.2.0',
+          'tensorflow==2.1.0',
           'matplotlib',
           'numpy',
           'scikit-learn'],
       zip_safe=False)
+            
