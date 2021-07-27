@@ -6,6 +6,7 @@ Adaptive Generalized Learning Vector Quantization
 
 The following combinations are tested:
 
+--------------------------
 
 Python 3.6
 
@@ -13,12 +14,15 @@ Keras 2.3.1
 
 Tensorflow 2.1.0
 
+--------------------------
 
 Python 3.7
 
 Keras 2.3.1
 
 Tensorflow 2.2.0
+
+--------------------------
 
 # Installation from PyPi
 
