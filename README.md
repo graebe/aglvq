@@ -2,7 +2,7 @@
 
 Adaptive Generalized Learning Vector Quantization
 
-# Installation Instructions
+## Installation Instructions
 
 The following combinations are tested:
 
@@ -24,11 +24,11 @@ Tensorflow 2.2.0
 
 --------------------------
 
-# Installation from PyPi
+## Installation from PyPi
 
 pip install aglvq
 
-# Local Installation
+## Local Installation
 
 Execute the following command in the aglvq directory on your hard drive:
 
