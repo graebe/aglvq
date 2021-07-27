@@ -17,4 +17,5 @@ pip install aglvq
 
 # Local Installation
 Execute the following command in the aglvq directory on your hard drive:
+
 pip install -e .
