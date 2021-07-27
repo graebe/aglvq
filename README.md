@@ -20,7 +20,7 @@ Python 3.7
 
 Keras 2.3.1
 
-Tensorflow 2.2.0
+Tensorflow 2.2.0 (You have to enforce this installation, since specification in setup.py is tensorflow==2.1.0)
 
 --------------------------
 
