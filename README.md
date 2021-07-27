@@ -4,9 +4,7 @@ Adaptive Generalized Learning Vector Quantization
 
 ## Installation Instructions
 
-The following combinations are tested:
-
---------------------------
+We recommend the following combination:
 
 Python 3.6
 
@@ -15,6 +13,7 @@ Keras 2.3.1
 Tensorflow 2.1.0
 
 --------------------------
+Also possible is a combination with Python 3.7:
 
 Python 3.7
 
